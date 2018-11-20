@@ -1,2 +1,8 @@
 create a file named file1.
+<<<<<<< HEAD
 change file1 on local.
+change file1 on GitHub.
+=======
+change file1 on local.
+change file1 on GitHub.
+>>>>>>> 9f76d83b8ad5f92ef3b3ce32d86fdaba6ce815df
